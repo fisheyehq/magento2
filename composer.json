@@ -1,5 +1,5 @@
 {
-    "name": "pcapredict/tag",
+    "name": "fisheye/module-pcapredicttag",
     "description": "Address Validation for Checkout Forms",
     "repositories": {
     "magento": {
